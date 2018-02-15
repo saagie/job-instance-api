@@ -1,0 +1,14 @@
+{
+  "name": "saagie-job-instance-api",
+  "version": "1.0.0",
+  "description": "Saagie job instace API",
+  "author": "Christophe <christophe@saagie.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
